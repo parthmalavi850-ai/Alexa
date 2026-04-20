@@ -1,0 +1,8 @@
+{
+  "name": "Universal Voice Assistant",
+  "description": "An AI-powered voice assistant with a beautiful atmospheric UI, multiple personalities, chat history, and Gemini TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
